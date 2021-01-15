@@ -1,0 +1,1 @@
+naMe:Milk;price:3.23;type:Food;expiration:1/25/2016##
